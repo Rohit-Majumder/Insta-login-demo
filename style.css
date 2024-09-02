@@ -1,0 +1,126 @@
+*{
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+font-family: arial;
+
+}
+
+.main-box{
+display: flex;
+flex-direction: column;
+height: 60vh;
+align-items: center;
+border: 1px solid black;
+width: 360px;
+margin: 20px auto;
+text-align: center;
+
+}
+
+.head{
+	text-align: center;
+width: 300px;
+padding-top: 20px;
+}
+
+
+
+.input-1{
+width: 300px;
+margin: 25px 30px 2px 30px;
+display: block;
+padding: 10px 8px;
+border-radius: 3px;
+border: 1px solid lightblue;
+}
+
+.input-2{
+width: 300px;
+margin: 8px 30px 10px 30px;
+display: block;
+padding: 10px 8px;
+border-radius: 3px;
+border: 1px solid lightblue;
+
+}
+
+.log-in{
+width: 300px;
+display: block;
+padding: 7px 5px;
+margin: 25px 30px 2px 30px;
+border-radius: 10px;
+color:white;
+font-weight: bold;
+background-color: #009ae5;
+border: 1px solid lightblue;
+
+
+}
+
+.or{
+margin-top: 25px;
+font-size: 12px;
+font-weight: 520;
+
+}
+hr{
+width: 300px;
+margin: 20px auto;
+
+
+}
+
+.Facebook{
+margin-top: 25;
+margin: 20px auto;
+font-size: 15px;
+
+}
+
+.forgot-password{
+margin: 25px auto;
+font-size: 12px;
+color:  #009ae5 ;
+
+}
+
+.second-box{
+	display: flex;
+border: 1px solid black;
+width: 360px;
+margin: 20px auto;
+height: 10vh;
+align-items: center;
+}
+
+.account{
+padding-left: 90px;
+font-size: 13px;
+}
+
+.sign-up{
+color:#009ae5 ;
+margin-left: 2px;
+text-decoration: none;
+font-size: 14px;
+font-weight: bold;
+
+}
+.last-box{
+display: flex;
+flex-direction: column;
+width: 360px;
+margin: 20px auto;
+height: 15vh;
+}
+
+.para-head{
+margin: 15px auto;
+font-size: 14px;
+
+}
+
+.promotion{
+padding-left: 18px;
